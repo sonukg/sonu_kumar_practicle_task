@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">sonu_kumar_practicle_task</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="id">Id</string>
+    <string name="name">name</string>
+    <string name="sonu_kumar">Sonu Kumar</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="logout">Logout</string>
+</resources>
